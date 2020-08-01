@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'cwTeXFangSong-zhonly';
+   font-display: swap;
+   src: url('cwTeXFangSong-zhonly/font.ttf');
+}
+@font-face {
+   font-family: 'cwTeXHei-zhonly';
+   font-display: swap;
+   src: url('cwTeXHei-zhonly/font.ttf');
+}
+@font-face {
+   font-family: 'cwTeXMing-zhonly';
+   font-display: swap;
+   src: url('cwTeXMing-zhonly/font.ttf');
+}
+@font-face {
+   font-family: 'cwTeXYen-zhonly';
+   font-display: swap;
+   src: url('cwTeXYen-zhonly/font.ttf');
+}
