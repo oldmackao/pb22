@@ -1,20 +1,25 @@
 @font-face {
-   font-family: 'cwTeXFangSong-zhonly';
+   font-family: 'GenRyuMinTW-Bold';
    font-display: swap;
-   src: url('cwTeXFangSong-zhonly/font.ttf');
+   src: url('GenRyuMinTW-Bold/font.ttf');
 }
 @font-face {
-   font-family: 'cwTeXHei-zhonly';
+   font-family: 'GenRyuMinTW-Heavy';
    font-display: swap;
-   src: url('cwTeXHei-zhonly/font.ttf');
+   src: url('GenRyuMinTW-Heavy/font.ttf');
 }
 @font-face {
-   font-family: 'cwTeXMing-zhonly';
+   font-family: 'GenRyuMinTW-SemiBold';
    font-display: swap;
-   src: url('cwTeXMing-zhonly/font.ttf');
+   src: url('GenRyuMinTW-SemiBold/font.ttf');
 }
 @font-face {
-   font-family: 'cwTeXYen-zhonly';
+   font-family: 'GenRyuMinTW-Medium';
    font-display: swap;
-   src: url('cwTeXYen-zhonly/font.ttf');
+   src: url('GenRyuMinTW-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'GenRyuMinTW-Regular';
+   font-display: swap;
+   src: url('GenRyuMinTW-Regular/font.ttf');
 }

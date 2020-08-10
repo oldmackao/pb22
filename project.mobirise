@@ -13,15 +13,15 @@
         "warningColor": "#FFE161",
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
-        "display1Font": "Jost",
+        "display1Font": "GenRyuMinTW-Bold",
         "display1Size": 4.6,
-        "display2Font": "Jost",
+        "display2Font": "GenRyuMinTW-Heavy",
         "display2Size": 3,
-        "display5Font": "Jost",
+        "display5Font": "GenRyuMinTW-SemiBold",
         "display5Size": 2.2,
-        "display7Font": "Jost",
+        "display7Font": "GenRyuMinTW-Medium",
         "display7Size": 1.2,
-        "display4Font": "Jost",
+        "display4Font": "GenRyuMinTW-Regular",
         "display4Size": 1.1,
         "isRoundedButtons": false,
         "underlinedLinks": false,
@@ -37,6 +37,36 @@
         "css": "'Jost', sans-serif",
         "name": "Jost",
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'GenRyuMinTW-Bold'",
+        "name": "GenRyuMinTW-Bold",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/GenRyuMinTW-Bold/font.ttf"
+      },
+      {
+        "css": "'GenRyuMinTW-Heavy'",
+        "name": "GenRyuMinTW-Heavy",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/GenRyuMinTW-Heavy/font.ttf"
+      },
+      {
+        "css": "'GenRyuMinTW-SemiBold'",
+        "name": "GenRyuMinTW-SemiBold",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/GenRyuMinTW-SemiBold/font.ttf"
+      },
+      {
+        "css": "'GenRyuMinTW-Medium'",
+        "name": "GenRyuMinTW-Medium",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/GenRyuMinTW-Medium/font.ttf"
+      },
+      {
+        "css": "'GenRyuMinTW-Regular'",
+        "name": "GenRyuMinTW-Regular",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/GenRyuMinTW-Regular/font.ttf"
       }
     ],
     "imageResize": true,
