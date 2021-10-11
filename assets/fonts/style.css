@@ -1,9 +1,4 @@
 @font-face {
-   font-family: 'GenRyuMinTW-Bold';
-   font-display: swap;
-   src: url('GenRyuMinTW-Bold/font.ttf');
-}
-@font-face {
    font-family: 'GenRyuMinTW-Heavy';
    font-display: swap;
    src: url('GenRyuMinTW-Heavy/font.ttf');
@@ -22,4 +17,9 @@
    font-family: 'GenRyuMinTW-Regular';
    font-display: swap;
    src: url('GenRyuMinTW-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'GenRyuMinTW-Light';
+   font-display: swap;
+   src: url('GenRyuMinTW-Light/font.ttf');
 }
